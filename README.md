@@ -1,6 +1,6 @@
 # 0x10. C - printf
 ## Description
-Hello, our team made up of @Noutcha ngapi jonathan and @ enama binong frédérique Francoise , aims to create a printf function in c.
+Hello, our team made up of @Noutcha Ngapi Jonathan and @Enama Binong Frédérique Francoise , aims to create a printf function in c.
 What you should learn from this project:
 * How to use git in a team setting
 * Applying variadic functions to a big project
@@ -16,7 +16,7 @@ What you should learn from this project:
 * Call it this way: ```_printf("format string", arguments...)``` where ```format string``` can contain conversion specifiers and flags,
 along with regular characters
 ## Examples
-* ```_printf("Hello, Holberton\n")``` *prints "Hello, Holberton", followed by a new line*
+* ```_printf("Hello, Alx\n")``` *prints "Hello, Alx", followed by a new line*
 * ```_printf("%s", "Hello")``` *prints "Hello"*
 * ```_printf("This is a number: %d", 98)``` *prints "This is a number: 98"*
 ---
@@ -78,4 +78,4 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 ### Authors
 * **Frédérique Françoise ENAMA BINONG ** - https://github.com/EXSE3
-* **NOUTCHA NGAPI JONATHAN** - 
+* **NOUTCHA NGAPI JONATHAN** - https://github.com/noungajo
